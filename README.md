@@ -66,6 +66,14 @@ claude mcp add ru-payroll -- npx -y github:penmadebykisss/ru-payroll-mcp
 npm test   # эталонные значения посчитаны вручную по НК РФ, 255-ФЗ и Положению № 922
 ```
 
+## Нужна настройка или доработка?
+
+Подключу этот сервер под ключ: установка, настройка под ваши данные и процессы, доработка под нестандартные поля,
+ежедневные сводки. Пишите в Telegram **[@penmadebykisss](https://t.me/penmadebykisss)** или оставьте заявку на
+[penmadebykisss.github.io](https://penmadebykisss.github.io).
+
+*Need help setting this up or a custom MCP server? Telegram [@penmadebykisss](https://t.me/penmadebykisss).*
+
 ## English
 
 **ru-payroll-mcp** is a Russian payroll calculator for AI assistants (2025–2026 rules): net ↔ gross salary with the
