@@ -1,0 +1,16 @@
+{
+  "name": "ru-payroll-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Russian payroll: net/gross salary with progressive NDFL 13-22%, employer insurance contributions, vacation pay, sick pay and unused-vacation compensation (2025-2026 rules), fully local",
+  "type": "module",
+  "bin": { "ru-payroll-mcp": "src/index.js" },
+  "files": ["src"],
+  "scripts": { "start": "node src/index.js", "test": "node test/smoke.js" },
+  "keywords": ["mcp", "model-context-protocol", "payroll", "salary", "ndfl", "russia", "accounting", "hr", "ai-agent"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/penmadebykisss/ru-payroll-mcp.git" },
+  "homepage": "https://github.com/penmadebykisss/ru-payroll-mcp#readme",
+  "bugs": "https://github.com/penmadebykisss/ru-payroll-mcp/issues",
+  "engines": { "node": ">=18" },
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.30.1", "zod": "^4.6.5" }
+}
