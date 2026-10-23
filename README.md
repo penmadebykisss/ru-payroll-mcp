@@ -84,6 +84,8 @@ tariffs), total employee cost, vacation pay, sick pay and unused-vacation compen
 npx -y github:penmadebykisss/ru-payroll-mcp
 ```
 
+**Ready-made agent skill:** [Russian Payroll Calculator](https://www.agensi.io/skills/russian-payroll-calculator-ndfl-13-22-2025-2026) on Agensi — free SKILL.md with usage rules and configs for Claude Code, Claude Desktop, Cursor, VS Code, Windsurf and Codex.
+
 ## Смотрите также
 
 - [ru-docs-mcp](https://github.com/penmadebykisss/ru-docs-mcp) — счета, акты и QR-оплата в PDF
